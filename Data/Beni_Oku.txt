@@ -1,0 +1,25 @@
+﻿.txt dosyalarını notepad++ ile açmanız tavsiye edilir.
+
+Depo.txt dosyasının içinde ilk blokta depoda bulunan araç plaka numaraları yazmaktadır. 
+2. blokta paket seri numaraları ve özellikleri yazmaktadır.
+ 
+
+Paket özellikleri aşağıdaki formattadır.
+
+
+Seri_Numarası Paket_Özelliği İçerik_Özelliği
+
+
+
+Plaka.txt dosyalarında ilk satırda aracın kapasite özellikleri aşağıdaki formatta yazmaktadır. 
+Devamında ise araçta bulunan paketler yukarıdaki formatta yazmaktadır. 
+
+Plaka Max_desi Sigortalı_desi Özel_desi
+
+
+Bu formata göre Max_desi < Sigortalı_desi < Özel_desi şeklinde birbirini içermektedirler. 
+
+Yani Max_desi - Sigortalı_desi= sadece_normal_paket_desisi  // Sigortalı_desi - Özel_desi= Sadece_sigortalı
+_paket_desisi 
+Şeklinde tanımlanmıştır.
+

@@ -10,3 +10,7 @@ Java programlama dili ile geliştirilmiş, .txt dosyları üzerinden çalışan 
 
 
 gibi işlemleri kullanıcı dostu bir arayüz ile yerine getirmektedir.
+
+'''html
+Programın çalışabilmesi için DataAccess klasöründe yer alan DataAccessBase sınıfı içerisinde DataAccessPath özelliğini kendi bilgisayarınıza göre ayarlamanız gerekmektedir.
+'''
